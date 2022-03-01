@@ -1,5 +1,6 @@
 {
 	"ip":"Ind_SMP.aternos.me",
 	"port": "26978",
-	"name": "Ind_SMP_BOTA"
+	"name": "afkbot",
+	"auto-night-skip":"true"
 }
